@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Awesuddin, a full-time full-stack developer 👨‍💻 Studying Btech 🚀</div>  
+### <div align="center">I'm Awesuddin, a full-time full-stack developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on creating projects  
